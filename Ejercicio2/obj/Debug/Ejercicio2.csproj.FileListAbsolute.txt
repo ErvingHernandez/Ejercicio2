@@ -1,0 +1,14 @@
+c:\users\zt-sw-008\documents\visual studio 2015\Projects\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.Cache
+C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.NewEmployee.resources
+C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.EditForm.resources
+C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Ejercicio2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Ejercicio2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Ejercicio2\bin\Debug\Newtonsoft.Json.xml

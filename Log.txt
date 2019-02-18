@@ -1,0 +1,31 @@
+
+Aplicacion iniciada:	01:49:10 p. m.,	lunes, 18 de febrero de 2019
+Los datos del empleado:	mario	han sido modificados con exito,	01:49:23 p. m.
+Los datos del empleado:	Carmen	han sido modificados con exito,	01:50:31 p. m.
+Los datos del empleado:	mario	han sido modificados con exito,	01:51:54 p. m.
+
+Aplicacion iniciada:	01:58:26 p. m.,	lunes, 18 de febrero de 2019
+
+Aplicacion iniciada:	02:00:18 p. m.,	lunes, 18 de febrero de 2019
+
+Aplicacion iniciada:	02:00:45 p. m.,	lunes, 18 de febrero de 2019
+Los datos del empleado:	Luishan sido borrados,	02:00:49 p. m.
+
+Aplicacion iniciada:	03:34:09 p. m.,	lunes, 18 de febrero de 2019
+El empleado: Luis	ha sido registrado con exito,	03:34:30 p. m.
+El empleado: maria	ha sido registrado con exito,	03:35:30 p. m.
+Los datos del empleado:	Erving	han sido modificados con exito,	03:35:43 p. m.
+Los datos del empleado:	alice	han sido modificados con exito,	03:36:00 p. m.
+Los datos del empleado:	maria	han sido borrados,	03:36:02 p. m.
+
+Aplicacion iniciada:	03:36:52 p. m.,	lunes, 18 de febrero de 2019
+Aplicación cerrada:	03:36:54 p. m.
+
+Aplicacion iniciada:	03:37:14 p. m.,	lunes, 18 de febrero de 2019
+Aplicación cerrada:\t03:37:17 p. m.
+
+Aplicacion iniciada:	03:37:43 p. m.,	lunes, 18 de febrero de 2019
+Aplicacion cerrada:	03:37:45 p. m.
+
+Aplicacion iniciada:	03:38:39 p. m.,	lunes, 18 de febrero de 2019
+Aplicacion cerrada:	03:38:41 p. m.,	lunes, 18 de febrero de 2019

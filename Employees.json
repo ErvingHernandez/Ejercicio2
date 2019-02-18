@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Name": "Erving",
+    "LastName": "hernandez",
+    "Gender": "Male",
+    "Email": "erving@zamtest.com"
+  },
+  {
+    "Id": 2,
+    "Name": "alice",
+    "LastName": "mendez",
+    "Gender": "Female",
+    "Email": "alice@gmail.com"
+  },
+  {
+    "Id": 3,
+    "Name": "Luis",
+    "LastName": "Jimenes",
+    "Gender": "Male",
+    "Email": "jimenez@gmail.com"
+  }
+]
