@@ -22,7 +22,9 @@ namespace Ejercicio2
         internal Employee Emp { get; set; }
         public int counter = 0;
         string path = @"C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Employees.json"; //Direccion del archivo en donde se guardara o utilizara
+        string path2 = @"C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\prueba.bin"; //direccion del archivo binario
         StreamWriter log = File.AppendText(@"C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Log.txt"); //direccion para guardar el log
+
         public Form1()
         {
             InitializeComponent();
@@ -36,7 +38,7 @@ namespace Ejercicio2
             {
                 Emp = newData.Emp;
                 Emp.Id = counter += 1;
-              
+
                 //Guardar datos de forma manual
                 //dataGridView1.Rows.Add(new object[]
                 //{
@@ -49,12 +51,32 @@ namespace Ejercicio2
 
                 //Agregar un elemento a al lista
                 employeeBindingSource.Add(Emp); // se liga los datos recopilados en Emp para el enlace de employeeBindingSource que comparte con el datagridview1
-
                 
                 string data = JsonConvert.SerializeObject(employeeBindingSource.List, Formatting.Indented); //se crea una variable local data, en donde se serializa "guarda" los datos de la lista 
-                File.WriteAllText(path, data); //Escribe todo el texto recopilado en la variable data, en la direccion declara Path
+                //archivo Json
+                //File.WriteAllText(path, data); //Escribe todo el texto recopilado en la variable data, en la direccion declara Path
 
-                log.WriteLine("El empleado: "  + Emp.Name.ToString() + "\tha sido registrado con exito,\t"+ DateTime.Now.ToLongTimeString());
+                //Escritura en archivo binario 
+                using (BinaryWriter writer = new BinaryWriter(File.Create(path2)))
+                {
+                    System.Text.ASCIIEncoding codificador = new System.Text.ASCIIEncoding();
+
+                    Byte[] cadena;
+                    cadena = codificador.GetBytes(data);
+
+                    byte[] buffer = cadena;
+                    for (int i = 0; i < buffer.Length; i++)
+                    {
+                        if (buffer[i] == 0x0d || buffer[i] == 0x0a)
+                            continue;
+                        else
+                            buffer[i] ^= 0xff;
+                    }
+                    writer.Write(buffer);
+                }
+
+                //Escritura en log
+                log.WriteLine("El empleado: " + Emp.Name.ToString() + "\tha sido registrado con exito,\t" + DateTime.Now.ToLongTimeString());
                 log.Flush();
                 MessageBox.Show("Data have been saved", "Attention", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
@@ -63,9 +85,6 @@ namespace Ejercicio2
                 MessageBox.Show("Data no saved", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
-
-
-
 
         //edit user
         private void button2_Click(object sender, EventArgs e)
@@ -86,8 +105,6 @@ namespace Ejercicio2
                 if (editEmployee.ShowDialog() == DialogResult.OK)
                 {
                     Emp = editEmployee.Emp;
-
-
                     //Emp = editEmployee.Emp;
                     //dataGridView1.SelectedRows[0].Cells[0].Value = Emp.Id.ToString();
                     //dataGridView1.SelectedRows[0].Cells[1].Value = Emp.Name;
@@ -97,10 +114,32 @@ namespace Ejercicio2
                     //employeeBindingSource.DataSource = null;
                     employeeBindingSource[dataGridView1.SelectedRows[0].Index] = Emp; //se sobreescribe los datos recopilados en Emp, en la posicion de la celda que se selecciono
                                                                                       //se obtiene la posicion de la celda seleccionada
-
                     string data = JsonConvert.SerializeObject(employeeBindingSource.List, Formatting.Indented); //se crea una variable local data, en donde se serializa "guarda" los datos de la lista 
-                    File.WriteAllText(path, data);
-                    log.WriteLine("Los datos del empleado:\t"+ Emp.Name.ToString() + "\than sido modificados con exito,\t" + DateTime.Now.ToLongTimeString());
+                    
+                    ////Archivo Json
+                    //File.WriteAllText(path, data);
+
+                    //Archivo binario 
+                    using (BinaryWriter writer = new BinaryWriter(File.Create(path2)))
+                    {
+                        System.Text.ASCIIEncoding codificador = new System.Text.ASCIIEncoding();
+
+                        Byte[] cadena;
+                        cadena = codificador.GetBytes(data);
+
+                        byte[] buffer = cadena;
+                        for (int i = 0; i < buffer.Length; i++)
+                        {
+                            if (buffer[i] == 0x0d || buffer[i] == 0x0a)
+                                continue;
+                            else
+                                buffer[i] ^= 0xff;
+                        }
+                        writer.Write(buffer);
+                    }
+
+                    //Escritura en log
+                    log.WriteLine("Los datos del empleado:\t" + Emp.Name.ToString() + "\than sido modificados con exito,\t" + DateTime.Now.ToLongTimeString());
                     log.Flush();
 
                     MessageBox.Show("Data have been changed successfully", "Attention", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -122,10 +161,32 @@ namespace Ejercicio2
                 string deletedEmployee;
                 deletedEmployee = dataGridView1.SelectedRows[0].Cells[1].Value.ToString();
                 employeeBindingSource.RemoveAt(dataGridView1.SelectedRows[0].Index); // se elimina los valores de la celda seleccionada, de la lista "employeeBindingSource"
-                string data = JsonConvert.SerializeObject(employeeBindingSource.List, Formatting.Indented);  
-                File.WriteAllText(path, data);
+                string data = JsonConvert.SerializeObject(employeeBindingSource.List, Formatting.Indented);
 
-                log.WriteLine("Los datos del empleado:\t" + deletedEmployee + "\than sido borrados,\t"+ DateTime.Now.ToLongTimeString());
+                //Escritura en archivo Json
+                //File.WriteAllText(path, data);
+
+                //Escritura archivoBinario
+                using (BinaryWriter writer = new BinaryWriter(File.Create(path2)))
+                {
+                    System.Text.ASCIIEncoding codificador = new System.Text.ASCIIEncoding();
+
+                    Byte[] cadena;
+                    cadena = codificador.GetBytes(data);
+
+                    byte[] buffer = cadena;
+                    for (int i = 0; i < buffer.Length; i++)
+                    {
+                        if (buffer[i] == 0x0d || buffer[i] == 0x0a)
+                            continue;
+                        else
+                            buffer[i] ^= 0xff;
+                    }
+                    writer.Write(buffer);
+                }
+
+                //Escritura en log
+                log.WriteLine("Los datos del empleado:\t" + deletedEmployee + "\than sido borrados,\t" + DateTime.Now.ToLongTimeString());
                 log.Flush();
             }
             else
@@ -143,10 +204,9 @@ namespace Ejercicio2
 
 
         //buscador
-
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-           
+
             foreach (DataGridViewRow row in dataGridView1.Rows)
             {
                 dataGridView1.CurrentCell = null; //declarar que ninguna celda del data grid view ha sido seleccionada para que no genere la excepcion al momento de ocultar una celda que no entre en la busqueda :v
@@ -157,7 +217,7 @@ namespace Ejercicio2
                     row.Visible = true;
                     row.DefaultCellStyle.BackColor = Color.Aqua;
                 }
-                
+
                 else
                 {
                     row.Visible = false;
@@ -168,37 +228,82 @@ namespace Ejercicio2
                 {
                     row.DefaultCellStyle.BackColor = Color.White;
                 }
-                
+
             }
         }
 
         private void Form1_Load(object sender, EventArgs e)  //evento de carga de variables
         {
-            if (!File.Exists(@"C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Employees.json")) //si no existe en archivo en la direccion...
-                 File.Create(@"C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Employees.json").Close(); //se crea un archivo en la direccion, y se maneja un administrador del archivo 
-            else
-            {
-                string data = File.ReadAllText(path); //si ya existe el archivo, se lee todo el texto del archivo que se encuentra en la ubicacion declarada en path
-                employeeBindingSource.DataSource = JsonConvert.DeserializeObject<List<Employee>>(data); // Se deserializa los datos: los archivos se leen y se guardan en el vinculo "employeeBindingSource" que esta ligado al datagridview1
 
-                foreach(var sub in employeeBindingSource)
-                {
-                  counter++;
-                }
-            }
+            //Archivo JSon
+            //if (!File.Exists(@"C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Employees.json")) //si no existe en archivo en la direccion...
+            //    File.Create(@"C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\Employees.json").Close(); //se crea un archivo en la direccion, y se maneja un administrador del archivo 
+            //else
+            //{
+            //    string data = File.ReadAllText(path); //si ya existe el archivo, se lee todo el texto del archivo que se encuentra en la ubicacion declarada en path
+            //    employeeBindingSource.DataSource = JsonConvert.DeserializeObject<List<Employee>>(data); // Se deserializa los datos: los archivos se leen y se guardan en el vinculo "employeeBindingSource" que esta ligado al datagridview1
 
-            log.WriteLine("\nAplicacion iniciada" + ":" + "\t" + DateTime.Now.ToLongTimeString() + ",\t" + DateTime.Now.ToLongDateString());
+            //    foreach (var sub in employeeBindingSource)
+            //    {
+            //        counter++;
+            //    }
+            //}
+
+            //Escritura en Log
+            log.WriteLine("\nAplicacion iniciada:\t" + DateTime.Now.ToLongTimeString() + ",\t" + DateTime.Now.ToLongDateString());
             log.Flush();
 
+            //Leer archivo binario 
+            if (!File.Exists(@"C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\prueba.bin"))
+                File.Create(@"C:\Users\ZT-SW-008\Documents\Visual Studio 2015\Projects\Ejercicio2\prueba.bin");
+            else
+            {
+                Byte[] red = File.ReadAllBytes(path2);
+                System.Text.ASCIIEncoding conver = new System.Text.ASCIIEncoding();
+                byte[] buffer = red;
+                for (int i = 0; i < buffer.Length; i++)
+                {
+                    if (buffer[i] == 0x0d || buffer[i] == 0x0a)
+                        continue;
+                    else
+                        buffer[i] ^= 0xff;
+                }
+                string data2 = Encoding.ASCII.GetString(buffer);
+                employeeBindingSource.DataSource = JsonConvert.DeserializeObject<List<Employee>>(data2);
+                foreach (var sub in employeeBindingSource)
+                {
+                    counter++;
+                }
+            }
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
+            //guardar datos en archivos json
             string data = JsonConvert.SerializeObject(employeeBindingSource.List, Formatting.Indented);
             File.WriteAllText(path, data);
-
+            //guardar datos en log sobre evento de cierrre
             log.WriteLine("Aplicacion cerrada:\t" + DateTime.Now.ToLongTimeString() + ",\t" + DateTime.Now.ToLongDateString());
             log.Flush();
+
+            //crear un archivo binario
+            using (BinaryWriter writer = new BinaryWriter(File.Create(path2)))
+            {
+                System.Text.ASCIIEncoding codificador = new System.Text.ASCIIEncoding();
+                
+                    Byte[] cadena;
+                    cadena = codificador.GetBytes(data);
+
+                    byte[] buffer = cadena;
+                    for(int i=0;  i< buffer.Length; i++)
+                    {
+                        if (buffer[i] == 0x0d || buffer[i] == 0x0a)
+                            continue;
+                        else
+                            buffer[i] ^= 0xff;
+                    }
+                    writer.Write(buffer);              
+            }
         }
     }
 }

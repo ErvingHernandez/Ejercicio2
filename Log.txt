@@ -50,3 +50,285 @@ Aplicacion cerrada:	05:48:55 p. m.,	lunes, 18 de febrero de 2019
 
 Aplicacion iniciada:	05:51:23 p. m.,	lunes, 18 de febrero de 2019
 Aplicacion cerrada:	05:51:46 p. m.,	lunes, 18 de febrero de 2019
+
+Aplicacion iniciada:	06:31:44 p. m.,	lunes, 18 de febrero de 2019
+Aplicacion cerrada:	06:31:47 p. m.,	lunes, 18 de febrero de 2019
+
+Aplicacion iniciada:	06:40:40 p. m.,	lunes, 18 de febrero de 2019
+
+Aplicacion iniciada:	06:42:23 p. m.,	lunes, 18 de febrero de 2019
+
+Aplicacion iniciada:	06:48:52 p. m.,	lunes, 18 de febrero de 2019
+Aplicacion cerrada:	06:48:54 p. m.,	lunes, 18 de febrero de 2019
+
+Aplicacion iniciada:	09:48:09 a. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	09:48:11 a. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	09:52:09 a. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	09:52:11 a. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	10:08:13 a. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	10:08:15 a. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	03:38:38 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	03:38:40 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	03:40:36 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	03:40:38 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	03:41:33 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	03:41:35 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	03:43:37 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	03:43:40 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	03:44:12 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	03:44:14 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	03:44:59 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	03:45:00 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	03:48:44 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	03:48:45 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	03:49:02 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	03:49:05 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	04:10:30 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	04:10:33 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	04:11:26 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	04:11:28 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	04:13:40 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	04:13:41 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	04:15:28 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	04:15:30 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	04:16:57 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	04:16:58 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	04:19:49 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	04:19:50 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	04:21:23 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	04:21:25 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	04:22:59 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	04:23:01 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	04:23:37 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	04:23:38 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	04:24:11 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	04:24:12 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	04:28:00 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	04:28:01 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	04:31:24 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	04:31:26 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	04:33:14 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	04:33:18 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	04:34:11 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	04:34:13 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	04:59:31 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	04:59:33 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	04:59:52 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	04:59:53 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:01:00 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:01:01 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:03:37 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:03:39 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:04:10 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:04:11 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:04:49 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:04:51 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:05:20 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:05:21 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:06:33 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:06:34 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:06:45 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:06:47 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:19:15 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:19:16 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:19:55 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:19:56 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:20:28 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:20:30 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:20:59 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:21:04 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:26:18 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:36:12 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:36:54 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:36:57 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:37:07 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:38:56 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:44:16 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:44:17 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:49:48 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:49:50 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:51:22 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:51:24 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	05:59:20 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	05:59:22 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:00:01 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:00:03 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:00:24 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:00:26 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:01:56 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:01:57 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:03:02 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:03:03 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:13:41 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:13:43 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:14:01 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:14:03 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:15:29 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:15:30 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:25:29 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:25:31 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:26:14 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:26:16 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:27:46 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:27:48 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:30:33 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:30:35 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:32:29 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:32:31 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:32:39 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:32:41 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:36:51 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:36:52 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:37:56 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:37:58 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:39:34 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:39:35 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:39:55 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:39:59 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:40:22 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:40:23 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:43:22 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:43:23 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:43:55 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:43:57 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:44:14 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:44:15 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:52:15 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:52:22 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:53:25 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:53:27 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:53:40 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:53:42 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:55:35 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:55:36 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	06:58:02 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	06:58:05 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	07:06:13 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	07:06:14 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	07:06:45 p. m.,	martes, 19 de febrero de 2019
+Aplicacion cerrada:	07:06:46 p. m.,	martes, 19 de febrero de 2019
+
+Aplicacion iniciada:	09:06:07 a. m.,	miércoles, 20 de febrero de 2019
+Aplicacion cerrada:	09:06:08 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	09:22:33 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	09:25:09 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	09:26:41 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	09:28:05 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	09:46:19 a. m.,	miércoles, 20 de febrero de 2019
+Aplicacion cerrada:	09:46:21 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	09:55:02 a. m.,	miércoles, 20 de febrero de 2019
+Aplicacion cerrada:	09:55:03 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	09:56:11 a. m.,	miércoles, 20 de febrero de 2019
+Aplicacion cerrada:	09:56:12 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	09:57:15 a. m.,	miércoles, 20 de febrero de 2019
+Aplicacion cerrada:	09:57:16 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	10:02:53 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	10:07:54 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	10:09:00 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	10:56:28 a. m.,	miércoles, 20 de febrero de 2019
+Aplicacion cerrada:	10:56:30 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	10:57:13 a. m.,	miércoles, 20 de febrero de 2019
+Aplicacion cerrada:	11:10:25 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	11:25:51 a. m.,	miércoles, 20 de febrero de 2019
+El empleado: Elisa	ha sido registrado con exito,	11:26:12 a. m.
+Aplicacion cerrada:	11:28:30 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	11:34:14 a. m.,	miércoles, 20 de febrero de 2019
+Los datos del empleado:	Elisa	han sido modificados con exito,	11:34:27 a. m.
+Aplicacion cerrada:	11:34:34 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	11:35:48 a. m.,	miércoles, 20 de febrero de 2019
+Los datos del empleado:	Elisa	han sido borrados,	11:35:51 a. m.
+Aplicacion cerrada:	11:35:59 a. m.,	miércoles, 20 de febrero de 2019
+
+Aplicacion iniciada:	11:40:38 a. m.,	miércoles, 20 de febrero de 2019
+El empleado: Elisa	ha sido registrado con exito,	11:41:08 a. m.
+Los datos del empleado:	alice	han sido modificados con exito,	11:41:22 a. m.
+Aplicacion cerrada:	11:41:25 a. m.,	miércoles, 20 de febrero de 2019
